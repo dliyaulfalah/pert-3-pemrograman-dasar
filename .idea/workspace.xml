@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e53f8d52-6b7c-440f-a117-429115316b2d" name="Changes" comment="pert 3 (1)">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/pertemuan 3/DataMahasiswa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/pertemuan 3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/pertemuan 3/percabangan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pertemuan 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataMahasiswa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/percabangan.java" afterDir="false" />
+    <list default="true" id="e53f8d52-6b7c-440f-a117-429115316b2d" name="Changes" comment="pert 3">
+      <change afterPath="$PROJECT_DIR$/src/praktikum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,16 +43,24 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e53f8d52-6b7c-440f-a117-429115316b2d" name="Changes" comment="" />
-      <changelist id="" name="DataMahasiswa" comment="" />
       <created>1680052784602</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680052784602</updated>
     </task>
+    <task id="LOCAL-00001" summary="pert 3">
+      <created>1680062145551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680062145551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pert 3 (1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="pert 3 (1)" />
+    <MESSAGE value="pert 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="pert 3" />
   </component>
 </project>
